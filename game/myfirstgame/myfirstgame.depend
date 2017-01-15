@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484267021 source:c:\users\muñoz\desktop\game\myfirstgame\spacekraft.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
